@@ -1,0 +1,10 @@
+1. UI (Button, Input, TextArea) - Grand Child components
+2. Components:
+- CvGenerate: include all the function handler change, add, delete, clear all, load example. Use components childs (GeneralInfo, Education, Experience, CvPreview) and pass handler functions as props to component childs to Use
+
+- GeneralInfo, Education, Experience: Child component that use have grand child component like (input, textarea, button) and export out.
+
+- CvPreview: render the preview in real-time as the user enters input.
+
+- Types: export data type of GeneralInfo, Education, Experience and props 
+
