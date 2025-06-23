@@ -131,7 +131,7 @@ export default function CvGenerate() {
         school: "Hoa Sen University",
         location: "TP.HCM VIETNAM",
         startYear: "2018-09",
-        endYear: "2025-02",
+        endYear: "2024-09",
       },
     ]);
     setExperience([
